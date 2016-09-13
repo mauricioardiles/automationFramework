@@ -1,0 +1,25 @@
+{
+	"username": "rodri",
+	"password": "superadmim",
+	"roles": [
+		{
+			"id": 1,
+			"name": "Person"
+		},
+		{
+			"id": 2,
+			"name": "Teacher"
+		},
+		{
+			"id": 3,
+			"name": "Developer"
+		}
+	],
+	"colors": ["blue", "green", "red"],
+	"isAvailable": false,
+	"age": 26,
+	"currentWork": {
+		"company": "Santex",
+		"position": "Developer"
+	}
+}

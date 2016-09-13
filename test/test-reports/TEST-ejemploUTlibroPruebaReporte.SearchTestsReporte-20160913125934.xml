@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="ejemploUTlibroPruebaReporte.SearchTestsReporte-20160913125934" tests="2" time="20.632">
+	<testcase classname="ejemploUTlibroPruebaReporte.SearchTestsReporte" name="test_search_title_length" time="9.840"/>
+	<testcase classname="ejemploUTlibroPruebaReporte.SearchTestsReporte" name="test_search_title_text" time="10.792"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

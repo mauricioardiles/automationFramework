@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<testsuite errors="1" failures="0" name="ejemploUTlibro.SearchTests-20160913125934" tests="2" time="22.727">
+	<testcase classname="ejemploUTlibro.SearchTests" name="test_search_title_text" time="10.000"/>
+	<testcase classname="ejemploUTlibro.SearchTests" name="test_search_title_length" time="12.727">
+		<error message="Wrong message len" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "C:\Users\Santex\PycharmProjects\PycharmProjects\automationFramework\test\ejemploUTlibro.py", line 12, in test_search_title_length
+    self.assertEquals(5, len(self.search_title_length.text), "Wrong message len")
+AssertionError: Wrong message len
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
